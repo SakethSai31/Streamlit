@@ -8,7 +8,7 @@ In this Application, we are generating the predicted images using the nowcast mo
 
 Another approach to view the predicted images are by giving the input of City, State, Date, and Time. Post giving the input we can generate the images using the nowcast model by calling it via an API.
 
-<img width="520" alt="Nowcast(loc,date,time)" src="https://user-images.githubusercontent.com/91446704/149588441-5a8568f8-88da-414e-b3ff-618fead33f69.png">
+<img width="520" alt="Nowcast(loc,date,time)" src="Nowcast(Loc,Date,Time).png">
 
 The predicted Images are shown as such
 
