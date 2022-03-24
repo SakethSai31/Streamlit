@@ -11,6 +11,3 @@ Another approach to view the predicted images are by giving the input of City, S
 <img width="520" alt="Nowcast(loc,date,time)" src="Nowcast(Loc,Date,Time).png">
 
 The predicted Images are shown as such
-
-<img width="520" alt="Screen Shot 2022-03-24 at 6.54.01 PM" src="https://user-images.githubusercontent.com/91446704/149588441-5a8568f8-88da-414e-b3ff-618fead33f69.png">
-
